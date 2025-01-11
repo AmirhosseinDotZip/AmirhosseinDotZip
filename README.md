@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<p align="left"><img src="https://raw.githubusercontent.com/AmirhosseinDotZip/AmirhosseinDotZip/main/github-metrics.svg" /></p>  
 <!--
 **AmirhosseinDotZip/AmirhosseinDotZip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
